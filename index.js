@@ -4,3 +4,5 @@ console.log("Helllo This is Wahab")
 
 let message = "Hello this is"
 console.log(message)
+
+let abc = 1
